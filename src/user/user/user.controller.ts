@@ -13,4 +13,9 @@ export class UserController {
             data: "Hello Eko"
         }
     }
+
+    // @Get()
+    // sayHello(@Query('name') name: string): string {
+    //     return `Hello ${name}`
+    // }
 }
